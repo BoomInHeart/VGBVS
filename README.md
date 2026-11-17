@@ -1,5 +1,5 @@
 <div align="center">
-<h1>VGBVS: Distilling Visual Geometry Priors <br> for Robust Zero-Shot Sim-to-Real Visual Servoing</h1>
+<h1>VGBVS: Distilling Visual Geometry Priors for <br> Robust Sim-to-Real Visual Servoing</h1>
 </div>
 
 ## 📖 Overview
