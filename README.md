@@ -10,6 +10,8 @@ Utilizing a lightweight encoder optimized through knowledge distillation and tra
 
 ## 📋 Checklist
 
+coming soon
+
 - [ ] Evaluation code
 - [ ] Distilled VGGT aggregator
 - [ ] Full model checkpoints
